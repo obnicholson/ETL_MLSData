@@ -9,8 +9,8 @@
 Extract, transform, and load data on MLS soccer team stats and player salaries
 
 ## Data Sources:
-Team stats - scorespro.com current win/loss/draw data (scraped table)
-Player salaries - kaggle.com CSV dataset
+  * Team stats - scorespro.com current win/loss/draw data (scraped table)
+  * Player salaries - kaggle.com CSV dataset
 
 ## Table Structure*:
   * team_stats - team win/loss/draw data including team name and team id (primary key)
